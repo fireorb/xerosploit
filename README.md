@@ -78,21 +78,5 @@ Demonstration
 =
 https://www.youtube.com/watch?v=35QUrtZEV9U
 
-I have some questions!
+Reupload By Fireorb
 =
-
-Please visit https://github.com/LionSec/xerosploit/issues
-
-Donations
-=
-- Paypal : https://www.paypal.me/lionsec
-- Bitcoin : 12dM5kZjYMizNuXaqu7QZBLNDkXjfKYpRD
-
-
-Contact
-=
-- Website : http://lionsec.net
-- Youtube : https://youtube.com/inf98es
-- Facebook : https://facebook.com/in98
-- Twitter: @LionSec1
-- Email : ledonman@gmail.com
